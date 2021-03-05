@@ -7,6 +7,7 @@ const StyledFormContainer = styled.div`
   min-width: 80%;
   min-height: 550px;
   border-radius: 26px;
+  margin: 10px;
   border-radius: 26px;
   background: #ebebeb;
   box-shadow: inset 5px 5px 5px #c8c8c8,
