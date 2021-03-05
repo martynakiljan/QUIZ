@@ -1,0 +1,54 @@
+
+.answer.selected {
+  color: #4f4c4c;
+  background-color:white;
+}
+
+.selected:hover {
+  color: #4f4c4c;
+  background-color: white;
+}
+
+.answer:focus {
+  outline: none;
+}
+
+.letter {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.iconFontAwesome {
+  font-size: 100px;
+  color: 	#282828;
+}
+
+.resultsTitle {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0 auto;
+  padding: 25px;
+
+}
+
+.icon-up {
+  color: green;
+}
+.icon-down {
+  color: red;
+}
+.icon-up , .icon-down {
+  padding-left: 40px;
+}
+
+.results-panel{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  margin: 0 auto;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+
