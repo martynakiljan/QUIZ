@@ -9,7 +9,7 @@ const StyledResultsBox = styled.div`
   border-radius: 10px;
   background: #ebebeb;
   box-shadow: inset 5px 5px 5px #c8c8c8,
-            inset -5px -5px 5px #ffffff;
+            inset 5px 5px 5px #ffffff;
   
  
 
